@@ -10,7 +10,10 @@ namespace CursoCSharp.Fundamentos
     {
         public static void Executar()
         {
-            
+            var idade = 23;
+
+            int num;
+            int num2 = 2;
         }
     }
 }

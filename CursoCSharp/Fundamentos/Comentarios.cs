@@ -12,6 +12,11 @@ namespace CursoCSharp.Fundamentos
         {
             Console.WriteLine("Comentários");
 
+            // Comentários
+
+            /*
+             * 
+             */
         }
     }
 }
