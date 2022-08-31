@@ -1,0 +1,8 @@
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\Prática Informática\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.pdb
