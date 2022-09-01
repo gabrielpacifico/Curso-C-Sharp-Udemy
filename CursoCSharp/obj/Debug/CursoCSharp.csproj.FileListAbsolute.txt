@@ -14,3 +14,11 @@ C:\Users\Gabriel\source\repos\gabrielpacifico\Curso-C-Sharp-Udemy\CursoCSharp\ob
 C:\Users\Gabriel\source\repos\gabrielpacifico\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel\source\repos\gabrielpacifico\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.exe
 C:\Users\Gabriel\source\repos\gabrielpacifico\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.pdb
