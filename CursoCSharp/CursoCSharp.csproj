@@ -44,6 +44,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\Construtores.cs" />
+    <Compile Include="ClassesEMetodos\DesafioAtributo.cs" />
+    <Compile Include="ClassesEMetodos\Membros.cs" />
+    <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
+    <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\Params.cs" />
+    <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaForeach.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIf.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIfElse.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIfElseIf.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaSwitch.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaWhile.cs" />
+    <Compile Include="EstruturasDeControle\UsandoBreak.cs" />
+    <Compile Include="EstruturasDeControle\UsandoContinue.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Conversoes.cs" />
     <Compile Include="Fundamentos\FormatandoNumero.cs" />

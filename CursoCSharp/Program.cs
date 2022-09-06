@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
+using CursoCSharp.EstruturasDeControle;
+using CursoCSharp.ClassesEMetodos;
 
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variáveis e constantes - Fundamentos", VariaveisEConstantes.Executar},
@@ -21,7 +24,28 @@ namespace CursoCSharp {
                 {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
                 {"Operadores de Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
-                {"Operadore Ternário - Fundamentos", OperadorTernario.Executar},
+                {"Operador Ternário - Fundamentos", OperadorTernario.Executar},
+                // Estruturas de controle
+                {"Estrutura If - Estruturas de controle", EstruturaIf.Executar},
+                {"Estrutura If/Else - Estruturas de controle", EstruturaIfElse.Executar},
+                {"Estrutura If/Else If - Estruturas de controle", EstruturaIfElseIf.Executar},
+                {"Estrutura Switch - Estruturas de controle", EstruturaSwitch.Executar},
+                {"Estrutura While - Estruturas de controle", EstruturaWhile.Executar},
+                {"Estrutura Do While - Estruturas de controle", EstruturaDoWhile.Executar},
+                {"Estrutura For - Estruturas de controle", EstruturaFor.Executar},
+                {"Estrutura Foreach - Estruturas de controle", EstruturaForeach.Executar},
+                {"Usando Break - Estruturas de controle", UsandoBreak.Executar},
+                {"Usando Continue - Estruturas de controle", UsandoContinue.Executar},
+                // Classes e métodos
+                {"Membros - Classes e métodos", Membros.Executar},
+                {"Construtores - Classes e métodos", Construtores.Executar},
+                {"Metodos com Retorno - Classes e métodos", MetodosComRetorno.Executar},
+                {"Metodos Estáticos - Classes e métodos", MetodosEstaticos.Executar},
+                {"Atributos Estáticos - Classes e métodos", AtributosEstaticos.Executar},
+                {"Desafio Atributo - Classes e métodos", DesafioAtributo.Executar},
+                {"Params - Classes e métodos", Params.Executar},
+                {"Parâmetros Nomeados - Classes e métodos", ParametrosNomeados.Executar},
+
 
             });
 
