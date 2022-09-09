@@ -47,11 +47,14 @@
     <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Construtores.cs" />
     <Compile Include="ClassesEMetodos\DesafioAtributo.cs" />
+    <Compile Include="ClassesEMetodos\GetSet.cs" />
     <Compile Include="ClassesEMetodos\Membros.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\ParametrosNomeados.cs" />
     <Compile Include="ClassesEMetodos\Params.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="ClassesEMetodos\Props.cs" />
     <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
     <Compile Include="EstruturasDeControle\EstruturaForeach.cs" />

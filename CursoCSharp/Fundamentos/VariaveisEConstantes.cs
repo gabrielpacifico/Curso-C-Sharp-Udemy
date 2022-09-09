@@ -57,7 +57,7 @@ namespace CursoCSharp.Fundamentos
 
             string bemVindo = "Seja bem vindo";
             Console.WriteLine(bemVindo);
-                ;
+                
 
         }
     }
