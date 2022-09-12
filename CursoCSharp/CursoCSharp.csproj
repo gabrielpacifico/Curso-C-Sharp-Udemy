@@ -95,6 +95,7 @@
     <Compile Include="Fundamentos\OperadorTernario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
+    <Compile Include="OO\Heranca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
