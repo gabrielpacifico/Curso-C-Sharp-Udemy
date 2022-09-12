@@ -55,11 +55,15 @@ namespace CursoCSharp {
                 {"Valor Vs Referência - Classes e métodos", ValorVsReferencia.Executar},
                 {"Parâmetros por Referência - Classes e métodos", ParametrosPorReferencia.Executar},
                 {"Parâmetro Padrão - Classes e métodos", ParametroPadrao.Executar},
-                {"Parâmetro Padrão - Classes e métodos", ParametroPadrao.Executar},
                 // Coleções
                 {"Array - Coleções ", Arrays.Executar},
-
-
+                {"List - Coleções ", ColecoesList.Executar},
+                {"Array List - Coleções ", ColecoesArrayList.Executar},
+                {"Set - Coleções ", ColecoesSet.Executar},
+                {"Queue - Coleções ", ColecoesQueue.Executar},
+                {"Igualdade - Coleções ", Igualdade.Executar},
+                {"Stack - Coleções ", ColecoesStack.Executar},
+                {"Dicionario - Coleções ", ColecoesDicionario.Executar},
 
             });
 
