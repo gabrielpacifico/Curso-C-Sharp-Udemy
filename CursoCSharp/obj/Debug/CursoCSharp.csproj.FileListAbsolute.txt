@@ -22,3 +22,6 @@ C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\
 C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
 C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.exe
 C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\bin\Debug\Encapsulamento2.dll
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\bin\Debug\Encapsulamento2.pdb
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\CursoCSharp\obj\Debug\CursoCSharp.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\bin\Debug\netstandard2.0\Encapsulamento2.deps.json
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\bin\Debug\netstandard2.0\Encapsulamento2.dll
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\bin\Debug\netstandard2.0\Encapsulamento2.pdb
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.csproj.AssemblyReference.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.AssemblyInfoInputs.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.AssemblyInfo.cs
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.dll
+C:\Users\Prática Informática\source\repos\Curso-C-Sharp-Udemy\Encapsulamento2\obj\Debug\netstandard2.0\Encapsulamento2.pdb

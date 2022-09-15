@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "v6zRdopSSEfa8kp5xozxTdYmqvsOd4sE4Zt4vni55nrBu5Z/3zCDOUdwei8gWate0Kt57B6/gh77DScaZX7oyg==",
+  "dgSpecHash": "xMdGf4j9DJvSJRWKL38dN3FLh8Q3jSLfQ6ErB8MYtwjcMwG5YR4GkCXSP154FTsXwK1M0297VxNJCQ1Gjjf4BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
+  "projectFilePath": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Gabriel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Prática Informática\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Prática Informática\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

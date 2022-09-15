@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj": {}
+    "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento\\obj\\",
+        "projectPath": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\Prática Informática\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prática Informática\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
