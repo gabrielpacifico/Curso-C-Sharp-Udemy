@@ -105,9 +105,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj">
-      <Project>{87128818-9b9e-4c2a-804c-5e1fb333e269}</Project>
-      <Name>Encapsulamento</Name>
+    <ProjectReference Include="..\Encapsulamento2\Encapsulamento2.csproj">
+      <Project>{15c6576e-8d22-4694-9d3c-fb7946314a8e}</Project>
+      <Name>Encapsulamento2</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
