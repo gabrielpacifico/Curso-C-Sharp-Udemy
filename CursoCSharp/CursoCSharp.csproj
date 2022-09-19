@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\Diretorios.cs" />
+    <Compile Include="API\ExemploDateTime.cs" />
+    <Compile Include="API\ExemploDirectoryInfo.cs" />
+    <Compile Include="API\ExemploFileInfo.cs" />
+    <Compile Include="API\ExemploPath.cs" />
+    <Compile Include="API\ExemploTimeSpan.cs" />
+    <Compile Include="API\LendoArquivos.cs" />
+    <Compile Include="API\PrimeiroArquivo.cs" />
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Construtores.cs" />
@@ -112,6 +120,11 @@
     <Compile Include="OO\Sealed.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopicosAvancados\Dynamics.cs" />
+    <Compile Include="TopicosAvancados\Genericos.cs" />
+    <Compile Include="TopicosAvancados\LINQ1.cs" />
+    <Compile Include="TopicosAvancados\LINQ2.cs" />
+    <Compile Include="TopicosAvancados\Nullables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
