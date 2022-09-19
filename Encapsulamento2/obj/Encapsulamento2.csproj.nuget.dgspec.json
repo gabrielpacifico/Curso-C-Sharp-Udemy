@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj": {}
+    "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
         "projectName": "Encapsulamento2",
-        "projectPath": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
-        "packagesPath": "C:\\Users\\Prática Informática\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prática Informática\\source\\repos\\Curso-C-Sharp-Udemy\\Encapsulamento2\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\Encapsulamento2.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\gabrielpacifico\\Curso-C-Sharp-Udemy\\Encapsulamento2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Prática Informática\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,12 +53,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
